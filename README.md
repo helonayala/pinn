@@ -14,6 +14,10 @@ In this notebook we reproduce the results of the paper
 
 in particular Section 2.1. Please refer to the paper for a detailed description of the method and case study. In the following we restrict to the information needed for the notebook to be self-contained.
 
+# Code explanation (video in Portuguese)
+
+https://www.youtube.com/watch?v=W1V14HBtSPE
+
 # Pending
 
 Extend it to x,y,t independent variables (for e.g. NS-eqs.). Step-by-step:
